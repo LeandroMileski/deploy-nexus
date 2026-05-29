@@ -2,6 +2,9 @@
 
 Goal: Have a running Nexus Repository Manager instance accessible on port 8081.
 
+<img width="451" height="57" alt="image" src="https://github.com/user-attachments/assets/a24d7b51-4042-4ec5-b17d-ab56583ec392" />
+
+
 Task 1 — Provision an EC2 instance
 Spin up a server that will host Nexus.
 
