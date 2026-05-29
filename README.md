@@ -18,7 +18,6 @@ Nexus runs on the JVM so Java must be present first.
 Nexus 3.x requires Java 17
 Install via: dnf install java-17-amazon-corretto -y
 
-
 Task 3 — Download and install Nexus
 Fetch the Nexus tarball and extract it to the right place.
 
