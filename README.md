@@ -49,7 +49,7 @@ Verify it's listening on port 8081
 Task 6 — Log in and retrieve the admin password
 First login requires a temporary password stored on disk.
 
-Open http://<ec2-ip>:8081 in a browser
+Open http://"your-remote-server-ip":8081 in a browser
 
 <img width="1891" height="922" alt="image" src="https://github.com/user-attachments/assets/bd8fda07-0410-4a62-9b09-15c6835d700c" />
 
